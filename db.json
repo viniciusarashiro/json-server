@@ -1,0 +1,62 @@
+[
+    {
+        "id": "184d89d4-6279-4813-9fb5-1b873cb3a24f",
+        "name": "Java Spring: Applying the MVC Architectural Pattern",
+        "slug": "java-spring-mvc-pattern",
+        "startDate": "2023-08-01",
+        "endDate": "2023-08-31",
+        "professor": {
+            "id": "825cf264-b02d-4b68-a1e1-52da8130bb1e",
+            "email": "g.lestrade@gmail.com",
+            "name": "Gregson Lestrade",
+            "role": "PROFESSOR",
+            "createdAt": "2023-07-17T15:15:30.123Z"
+        },
+        "createdAt": "2023-07-17T15:32:19Z"
+    },
+    {
+        "id": "035887f8-7f59-4c48-8bdb-7653b91372dd",
+        "name": "Java: Applying the Domain-Driven Design Principles",
+        "slug": "java-ddd",
+        "startDate": "2023-09-04",
+        "endDate": "2023-09-09",
+        "professor": {
+            "id": "b0349f65-140d-4b71-8a79-806158b311fe",
+            "email": "moriarty@gmail.com",
+            "name": "Moriarty",
+            "role": "PROFESSOR",
+            "createdAt": "2023-07-17T15:15:30.123Z"
+        },
+        "createdAt": "2023-07-17T17:21:24Z"
+    },
+    {
+        "id": "3e47a4ae-35df-46e7-95fc-498a5af67cb1",
+        "name": "Java: Applying the Domain-Driven Design Principles",
+        "slug": "java-ddd-second-class",
+        "startDate": "2023-09-18",
+        "endDate": "2023-09-23",
+        "professor": {
+            "id": "b0349f65-140d-4b71-8a79-806158b311fe",
+            "email": "moriarty@gmail.com",
+            "name": "Moriarty",
+            "role": "PROFESSOR",
+            "createdAt": "2023-07-17T15:15:30.123Z"
+        },
+        "createdAt": "2023-07-17T17:31:28Z"
+    },
+    {
+        "id": "2419c833-cf3d-4345-9ebc-572ba2571ebf",
+        "name": "Object-Oriented Programming with Python",
+        "slug": "oop-python",
+        "startDate": "2023-07-24",
+        "endDate": "2023-07-29",
+        "professor": {
+            "id": "b0349f65-140d-4b71-8a79-806158b311fe",
+            "email": "moriarty@gmail.com",
+            "name": "Moriarty",
+            "role": "PROFESSOR",
+            "createdAt": "2023-07-17T15:15:30.123Z"
+        },
+        "createdAt": "2023-07-17T15:28:28Z"
+    }
+]
